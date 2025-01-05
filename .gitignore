@@ -1,0 +1,4 @@
+start
+venv/
+__pycache__/
+bin/
